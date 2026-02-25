@@ -1,11 +1,11 @@
 cask "comet" do
-  version "0.5.0"
-  sha256 "229ca210a624b46d575eac09beaf9f70d5b5d3319bf651e40c35bcb404a2f31d"
+  version "0.5.1"
+  sha256 "fbfac6d633f1a7901a5011320a071ffbd9fd42df959ded0c53b0427cfe2a147a"
 
   url "https://storage.googleapis.com/comet-releases/releases/v#{version}/Comet_#{version}_aarch64.dmg"
   name "Comet"
   desc "MongoDB database manager"
-  homepage "https://handcraftcode.com/comet"
+  homepage "https://cometdb.dev"
 
   app "Comet.app"
 end
