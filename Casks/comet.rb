@@ -1,6 +1,6 @@
 cask "comet" do
-  version "0.7.1"
-  sha256 "ef6812f3f60f5fff15131d1f082badbe2f314732d20156278ab1484f9a5a5e77"
+  version "0.8.0"
+  sha256 "cdafe0a2ab05d196eb77c72f1aa03d74abeee742994abb23d5a51ab09ffa227b"
 
   url "https://storage.googleapis.com/comet-releases/releases/v#{version}/Comet_#{version}_aarch64.dmg"
   name "Comet"
